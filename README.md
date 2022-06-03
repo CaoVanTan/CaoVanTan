@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
 
 <!--
 **CaoVanTan/CaoVanTan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
