@@ -1,14 +1,13 @@
 ### Hello, I'm Cao Van Tan
 
-### ***📊 GitHub Profile Stats***
+### 📊 GitHub Profile Stats
 
 <p align="left">
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CaoVanTan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F85D7F"/>
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CaoVanTan&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
 <br>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
-<!--
+
 **CaoVanTan/CaoVanTan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -21,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
