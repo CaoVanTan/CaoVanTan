@@ -1,11 +1,13 @@
 ### Hello, I'm Cao Van Tan
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### ***📊 GitHub Profile Stats***
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CaoVanTan&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
+<p align="left">
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nguyenary&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nguyenary&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+<br>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
 <!--
 **CaoVanTan/CaoVanTan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
