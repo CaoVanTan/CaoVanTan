@@ -1,6 +1,6 @@
 ### Hello, I'm Cao Van Tan
 
-| `ocean_dark` ![ocean_dark][ocean_dark] | `city_lights` ![city_lights][city_lights] | `github_dark` ![github_dark][github_dark] |
+ `github_dark` ![github_dark][github_dark]
 
 <!--
 **CaoVanTan/CaoVanTan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
