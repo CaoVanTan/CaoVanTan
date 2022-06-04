@@ -1,4 +1,4 @@
-### Xin chào, mình là Cao Văn Tân 👋
+## Xin chào, mình là Cao Văn Tân 👋
 
 ### 📈 GitHub Profile Stats
 <p align="left">
