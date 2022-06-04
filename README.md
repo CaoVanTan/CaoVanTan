@@ -1,6 +1,6 @@
 ### Hello, I'm Cao Van Tan
 
- `github_dark` ![github_dark][github_dark]
+![github_dark][github_dark]
 
 <!--
 **CaoVanTan/CaoVanTan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
